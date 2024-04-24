@@ -1,7 +1,5 @@
 ### Hi! 👋 I'm Gilang.
 
-Perkenalkan nama saya **GIlang Herdiansyah Saputra**.\
-Saya seorang **Mahasiswa** di [Unikom](https://www.unikom.ac.id/).\
-Saya sedang mengikuti program **Studi Independent** di [Dicoding](https://www.dicoding.com/).\
+A passionate student who is pursuing a degree in Information Engineering at the Indonesian Computer University. I believe that every day is a new opportunity to learn and grow. With a deep interest in the Front-End Developer field, I am committed to developing my skills and knowledge to reach my full potential.\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-herdiansyah/)ku ya.
 
