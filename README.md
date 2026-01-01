@@ -57,7 +57,8 @@ Skilled in developing RESTful APIs, implementing database authentication and int
 
 ### 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/gilang-herdiansyah/
-- 🌐 Portfolio: https://your-portfolio.com
+- 📷 Instagram: https://www.instagram.com/resilience___25/
+- 🌐 Portfolio: https://gilang-herdiansyah-saputra.vercel.app/
 - 📧 Email: gilangherdiansyah404@gmail.com
 
 ---
